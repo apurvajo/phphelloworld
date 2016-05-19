@@ -1,1 +1,1 @@
-<? phpinfo(); /*Just adding a comment*/ ?>
+<? phpinfo(); /*Just adding another comment*/ ?>
